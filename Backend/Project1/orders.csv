@@ -1,0 +1,11 @@
+OrderID,CustomerID,BookID,BookName,Quantity,OrderDate,TotalAmount,ShippingAddress
+1,CUST001,B001,To Kill a Mockingbird,2,2024-01-28,45.98,123 Main St, Cityville
+2,CUST002,B003,1984,1,2024-01-28,29.99,456 Oak St, Townburg
+3,CUST003,B005,The Great Gatsby,3,2024-01-29,89.97,789 Pine St, Villagetown
+4,CUST001,B002,Pride and Prejudice,1,2024-01-30,24.99,123 Main St, Cityville
+5,CUST004,B004,The Catcher in the Rye,2,2024-01-31,55.98,101 Elm St, Hamletville
+6,CUST002,B006,To Kill a Mockingbird,1,2024-02-01,39.99,456 Oak St, Townburg
+7,CUST005,B002,1984,2,2024-02-02,49.98,222 Maple St, Riverside
+8,CUST003,B001,The Great Gatsby,1,2024-02-03,22.99,789 Pine St, Villagetown
+9,CUST001,B003,Pride and Prejudice,1,2024-02-04,29.99,123 Main St, Cityville
+10,CUST004,B005,The Catcher in the Rye,3,2024-02-05,89.97,101 Elm St, Hamletville
