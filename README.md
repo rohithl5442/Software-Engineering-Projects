@@ -253,33 +253,93 @@ Tkinter-based GUI for easy interaction.
 Data management using Pandas, allowing for efficient storage and filtering of bug reports.
 Report creation, status updates, and prioritization of bugs.
 
+### Preview
+
+**1. User Agreement:**
+</br>
+<div align="center">
+  <img width="825" alt="Project 4a" src="https://github.com/user-attachments/assets/78deff1a-ebcb-4882-9724-997c88d1d1ed">
+</div>
+</br>
+
+**2. Main Page of Bug Tracking System:**
+</br>
+<div align="center">
+ <img width="995" alt="Project 4b" src="https://github.com/user-attachments/assets/35b4bf9b-d3c6-46cb-b898-e5b18c55c40b">
+</div>
+</br>
+
+**3. Adding Bug Details:**
+</br>
+<div align="center">
+  <img width="995" alt="Project 4c" src="https://github.com/user-attachments/assets/7250b70c-4a4c-470f-8357-1088cbfead6e">
+</div>
+</br>
+
+
+**4. Scroll Bug Selection:**
+</br>
+<div align="center">
+  <img width="995" alt="Project 4d" src="https://github.com/user-attachments/assets/e4578658-a2e2-4032-bfb7-46385620adff">
+</div>
+</br>
+
+**5. Bug Submission Successful:**
+
+<div align="center">
+  <img width="995" alt="Project 4e" src="https://github.com/user-attachments/assets/0f2a1dbf-9af5-432c-9643-ebb391e8d7b3">
+</div>
+
+**6. View Bug Page:**
+</br>
+<div align="center">
+  <img width="995" alt="Project 4f" src="https://github.com/user-attachments/assets/173d69f4-0dee-4c2d-a4f0-b77d8d9575a7">
+</div>
+</br>
+
+**7. Update Bug:**
+</br>
+<div align="center">
+  <img width="995" alt="Project 4g" src="https://github.com/user-attachments/assets/560835d4-2b37-4db0-8918-634a25d88169">
+</div>
+</br>
+
+**8. Edit Bug:**
+</br>
+<div align="center">
+  <img width="995" alt="Project 4g" src="https://github.com/user-attachments/assets/5e4de12c-1132-453e-a986-ae0db3e1144f">
+</div>
+</br>
+
+**9. Updating First Responder Name:**
+</br>
+<div align="center">
+  <img width="995" alt="Project 4h" src="https://github.com/user-attachments/assets/34873f40-7936-4a9a-bf9f-954a27583925">
+</div>
+</br>
+
+**10. Bug Updated Successful Message:**
+</br>
+<div align="center">
+  <img width="995" alt="Project 4i" src="https://github.com/user-attachments/assets/d343576d-f081-4638-be1e-b0caf7bd37f4">
+</div>
+</br>
+
+**11. View Bug Updated Page:**
+</br>
+<div align="center">
+  <img width="995" alt="Project 4j" src="https://github.com/user-attachments/assets/33bd35a0-377d-4b58-8ac3-88c5c256808b">
+</div>
+</br>
+
+**12. Help Page:**
+</br>
+<div align="center">
+  <img width="995" alt="Project 4k" src="https://github.com/user-attachments/assets/a19282d6-7ff8-4bfa-ad0f-d19040fcfb93">
+</div>
+</br>
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Screenshots
 
-### 1. Homepage
-
-![Homepage](link-to-homepage-screenshot)
-
-### 2. Product Comparison Page
-
-![Comparison Page](link-to-comparison-page-screenshot)
-
-### 3. Data Upload Interface
-
-![Data Upload](link-to-upload-interface-screenshot)
-
-### 4. Vendor Data Retrieval
-
-![Vendor Data](link-to-vendor-data-screenshot)
-
-*(Include any additional screenshots as needed, following the same format.)*
-
-## Installation Instructions
-
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
