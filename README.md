@@ -90,7 +90,7 @@ Ability to add, update, and delete book entries.
 <div align="center">
   <img width="722" alt="Project 1j" src="https://github.com/user-attachments/assets/2e1e9d21-d814-4231-b00f-79ebf10e3ca9">
 </div>
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 2. Dynamic Ping Pong Game
 
@@ -104,6 +104,54 @@ The Ping Pong Game is an interactive, dynamic game designed with the Turtle grap
 Real-time gameplay between two players or against the computer.
 Dynamic paddle movement and ball physics for a responsive user experience.
 Score tracking and display within the game window.
+
+### Preview
+
+**1. Main Game Page:**
+
+<div align="center">
+  <<img width="1512" alt="Project 2a" src="https://github.com/user-attachments/assets/5800bcdd-b06d-4eb4-9f6b-39b37d05b08a">
+</div>
+
+**2. Initial Game Stats:**
+
+<div align="center">
+ <img width="1512" alt="Project 2b" src="https://github.com/user-attachments/assets/df69cc15-a35d-4c42-bf06-ae264f4493b0">
+</div>
+
+**3. User Agreement:**
+
+<div align="center">
+  <img width="1512" alt="Project 2c" src="https://github.com/user-attachments/assets/d1258c4a-7127-4974-943a-b08c1d86ef21">
+</div>
+
+
+**4. Game Movements:**
+
+<div align="center">
+  <img width="1512" alt="Project 2d" src="https://github.com/user-attachments/assets/e3a58c58-0a70-484f-bb2e-2bdf7ba13d70">
+</div>
+
+**5. Game Paused:**
+
+<div align="center">
+  <img width="1512" alt="Project 2e" src="https://github.com/user-attachments/assets/55089a82-f0da-4a47-a9be-fd772da500a0">
+</div>
+
+**6. Game Stats after Finish:**
+
+<div align="center">
+  <img width="1512" alt="Project 2f" src="https://github.com/user-attachments/assets/20779e2d-b87a-4525-bd39-cbabf7ba10c8">
+</div>
+
+**7. Game Restart:**
+
+<div align="center">
+  <img width="1512" alt="Project 2g" src="https://github.com/user-attachments/assets/d3683870-85e2-41d7-a00b-37bc137b5d47">
+</div>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 3. Pizza Ordering System
 
@@ -121,6 +169,8 @@ Custom pizza order options, including size, toppings, and delivery instructions.
 Real-time price calculation and order summary display.
 Option to save orders for future reference.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 4. Bug Tracking System
 
 Technologies Used:
@@ -133,6 +183,8 @@ The Bug Tracking Tool is a project management utility designed for tracking soft
 Tkinter-based GUI for easy interaction.
 Data management using Pandas, allowing for efficient storage and filtering of bug reports.
 Report creation, status updates, and prioritization of bugs.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Screenshots
