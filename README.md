@@ -22,85 +22,75 @@ Data storage and manipulation using Pandas to handle book inventory and sales re
 Search functionality to find books by title, author, or ISBN.
 Ability to add, update, and delete book entries.
 
-### Screenshots
+### Preview
 
-1. Browse CSV/XLSX Files:
-
-<div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
-</div>
-
-2. Sample Template:
+**1. Browse CSV/XLSX Files:**
 
 <div align="center">
   <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
 </div>
 
-2. Sample Template:
+**2. User Agreement:**
 
 <div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+ <img width="515" alt="Project 1b" src="https://github.com/user-attachments/assets/a427126d-7465-4930-b8ec-4be5f188b0dd">
 </div>
 
-2. Sample Template:
+**3. Upload Sample Template:**
 
 <div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+  <img width="756" alt="Project initial orders 1" src="https://github.com/user-attachments/assets/9f415bbc-df71-44f4-aa11-a6db0e83d150">
 </div>
 
-2. Sample Template:
+
+**4. Main Orders Database App:**
 
 <div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+  <img width="565" alt="Project 1c" src="https://github.com/user-attachments/assets/d1e431fd-46fc-4066-9728-fcf3a3e61bee">
 </div>
 
-2. Sample Template:
+**5. Show Orders:**
 
 <div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+  <img width="724" alt="Project 1d" src="https://github.com/user-attachments/assets/00abc1a0-972c-4bf2-ab6b-e9273c98d652">
 </div>
 
-2. Sample Template:
+**6. Delete Order by Order ID:**
 
 <div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+  <img width="568" alt="Project 1e" src="https://github.com/user-attachments/assets/2e352171-4792-4778-8991-544adc1e7c22">
 </div>
 
-2. Sample Template:
+**7. Message showing Order has been deleted by Order ID:**
 
 <div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+  <img width="568" alt="Project 1f" src="https://github.com/user-attachments/assets/e3495409-8865-4e9f-9102-deb56dc13166">
 </div>
 
-2. Sample Template:
+**8. Adding Orders:**
 
 <div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+  <img width="347" alt="Project 1g" src="https://github.com/user-attachments/assets/48f7c19a-d6f4-48c0-978f-391c03b370aa">
 </div>
 
-2. Sample Template:
+**9. Adding Orders Contd:**
 
 <div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+  <img width="347" alt="Project 1h" src="https://github.com/user-attachments/assets/dc4c29c5-4482-434a-96dd-1f726721268c">
 </div>
 
-2. Sample Template:
+**10. Successful Message showing Order has been Added:**
 
 <div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+  <img width="347" alt="Project 1i" src="https://github.com/user-attachments/assets/b366bf31-6b2d-4486-8b0f-78f322db9f48">
 </div>
 
-2. Sample Template:
+**11. Final Show Order List:**
 
 <div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+  <img width="722" alt="Project 1j" src="https://github.com/user-attachments/assets/2e1e9d21-d814-4231-b00f-79ebf10e3ca9">
 </div>
 
-2. Sample Template:
-
-<div align="center">
-  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
-</div>
 
 ### 2. Dynamic Ping Pong Game
 
