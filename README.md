@@ -112,44 +112,52 @@ Score tracking and display within the game window.
 <div align="center">
   <<img width="1512" alt="Project 2a" src="https://github.com/user-attachments/assets/5800bcdd-b06d-4eb4-9f6b-39b37d05b08a">
 </div>
-
+  </br>
+    
 **2. Initial Game Stats:**
+</br>
 
 <div align="center">
  <img width="1512" alt="Project 2b" src="https://github.com/user-attachments/assets/df69cc15-a35d-4c42-bf06-ae264f4493b0">
 </div>
+</br>
 
 **3. User Agreement:**
+</br>
 
 <div align="center">
   <img width="1512" alt="Project 2c" src="https://github.com/user-attachments/assets/d1258c4a-7127-4974-943a-b08c1d86ef21">
 </div>
+</br>
 
 
 **4. Game Movements:**
-
+</br>
 <div align="center">
   <img width="1512" alt="Project 2d" src="https://github.com/user-attachments/assets/e3a58c58-0a70-484f-bb2e-2bdf7ba13d70">
 </div>
+</br>
 
 **5. Game Paused:**
-
+</br>
 <div align="center">
   <img width="1512" alt="Project 2e" src="https://github.com/user-attachments/assets/55089a82-f0da-4a47-a9be-fd772da500a0">
 </div>
+</br>
 
 **6. Game Stats after Finish:**
-
+</br>
 <div align="center">
   <img width="1512" alt="Project 2f" src="https://github.com/user-attachments/assets/20779e2d-b87a-4525-bd39-cbabf7ba10c8">
 </div>
+</br>
 
 **7. Game Restart:**
-
+</br>
 <div align="center">
   <img width="1512" alt="Project 2g" src="https://github.com/user-attachments/assets/d3683870-85e2-41d7-a00b-37bc137b5d47">
 </div>
-
+</br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
