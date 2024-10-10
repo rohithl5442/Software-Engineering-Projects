@@ -22,9 +22,81 @@ Data storage and manipulation using Pandas to handle book inventory and sales re
 Search functionality to find books by title, author, or ISBN.
 Ability to add, update, and delete book entries.
 
-## Screenshots
+### Screenshots
 
-### 1. Homepage
+1. Browse CSV/XLSX Files:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
+
+<div align="center">
+  <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
+</div>
+
+2. Sample Template:
 
 <div align="center">
   <img width="142" alt="Project 1a" src="https://github.com/user-attachments/assets/688d5057-2c38-443e-83de-7d4954779385">
