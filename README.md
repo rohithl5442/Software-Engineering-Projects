@@ -177,6 +177,67 @@ Custom pizza order options, including size, toppings, and delivery instructions.
 Real-time price calculation and order summary display.
 Option to save orders for future reference.
 
+### Preview
+
+**1. User Agreement:**
+
+<div align="center">
+  <img width="1201" alt="Project 3a" src="https://github.com/user-attachments/assets/a672529d-ea8a-4bb0-9010-340e28ddb603">
+</div>
+  </br>
+    
+**2. Main Pizza Ordering App:**
+</br>
+
+<div align="center">
+ <img width="1235" alt="Project 3b" src="https://github.com/user-attachments/assets/95a9a5a4-6c38-4b55-a250-36d75b696b17">
+</div>
+</br>
+
+**3. Selection Criteria:**
+</br>
+
+<div align="center">
+  <img width="1235" alt="Project 3c" src="https://github.com/user-attachments/assets/a275506a-ba61-4181-8c5c-dfcb84b06629">
+</div>
+</br>
+
+
+**4. Final Selection:**
+</br>
+<div align="center">
+  <img width="1235" alt="Project 3d" src="https://github.com/user-attachments/assets/de8335af-ebbf-4a80-9760-8a1c38642719">
+</div>
+</br>
+
+**5. Order Message Success:**
+</br>
+<div align="center">
+  <img width="1235" alt="Project 3e" src="https://github.com/user-attachments/assets/35733571-17a2-4f1b-b099-39f0059696a6">
+</div>
+</br>
+
+**6. Order Details:**
+</br>
+<div align="center">
+  <img width="1235" alt="Project 3f" src="https://github.com/user-attachments/assets/5bbbb03e-9097-4243-8e80-69465efeabe0">
+</div>
+</br>
+
+**7. Cancel Order:**
+</br>
+<div align="center">
+  <img width="1235" alt="Project 3g" src="https://github.com/user-attachments/assets/410757c1-9151-4e62-a715-7d022e04d21a">
+</div>
+</br>
+
+**8. Canceled Order Final Page:**
+</br>
+<div align="center">
+  <img width="1235" alt="Project 3i" src="https://github.com/user-attachments/assets/217fa0c7-6677-4261-9d64-027fea112977">
+</div>
+</br>
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 4. Bug Tracking System
